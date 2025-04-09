@@ -7,7 +7,7 @@
 body{
    
     font-family: sans-serif;
-   background-image: url(image/camera.jpg); 
+   background-image: url(camera.jpg); 
    background-size: cover;  
    background-position: center; /* centers the image */
    
